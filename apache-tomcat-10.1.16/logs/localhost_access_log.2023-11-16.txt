@@ -1,0 +1,17 @@
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:39:55 -0500] "GET /esmeraldasTralvels/index.html HTTP/1.1" 404 721
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/index.html HTTP/1.1" 200 17639
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/lib/tempusdominus/css/tempusdominus-bootstrap-4.min.css HTTP/1.1" 200 9058
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/css/style.css HTTP/1.1" 200 176509
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/lib/owlcarousel/assets/owl.carousel.min.css HTTP/1.1" 200 2936
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/carousel-1.jpg HTTP/1.1" 200 59190
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/carousel-2.jpg HTTP/1.1" 200 211796
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/esmeraldas.jpg HTTP/1.1" 200 96148
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/atacames.jpg HTTP/1.1" 200 34572
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/portete.jpg HTTP/1.1" 200 14574
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/destinoLasPalmas.jpg HTTP/1.1" 200 35870
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/destinoTonsupa.jpg HTTP/1.1" 200 68224
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/destinoAtacames.jpg HTTP/1.1" 200 5150
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/destinoMuisne.jpg HTTP/1.1" 200 73662
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/destinoPortete.jpg HTTP/1.1" 200 43170
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:56 -0500] "GET /esmeraldasTralvels/img/destinoSame.jpg HTTP/1.1" 200 34646
+0:0:0:0:0:0:0:1 - - [16/Nov/2023:10:40:57 -0500] "GET /esmeraldasTralvels/img/favicon.ico HTTP/1.1" 404 730
